@@ -16,6 +16,8 @@
 
 - `scalafix/rules/src/main/resources/META-INF/services/scalafix.v1.Rule`
 
+Список всех правил
+
 ## Проверить работоспособность
 
 ~~~
